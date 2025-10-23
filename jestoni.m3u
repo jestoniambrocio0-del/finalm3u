@@ -1617,7 +1617,11 @@ http://supersonictv.live:8080/611366/682256/22125
 https://v1.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=akyGmkmpDursmRQTcVWcQw&expires=1761242306&user_id=dHE4NmNnUXIxa0xycUNaMmxJS1ZLY2Rtdm9TQzFhQ3k4Yzd0bDlaVg==
 
 #EXTINF:-1 group-title="World TV" tvg-ID="NBA TV HD" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png",NBA TV HD
-http://tvmate.icu:8080/99437538/28260477/20073
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mc-0x5t0x453e.bunny.run/license?id=NBATV
+https://mc-0x5t0x453e.bunny.run/channel/NBATV/master.mpd
 
 **********FM Radio**********
 
