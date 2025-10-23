@@ -1616,6 +1616,9 @@ http://supersonictv.live:8080/611366/682256/22125
 #EXTINF:-1 group-title="World TV" tvg-ID="NBA TV" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png",NBA TV
 https://v1.thetvapp.to/hls/NBATV/tracks-v1a1/mono.m3u8?token=akyGmkmpDursmRQTcVWcQw&expires=1761242306&user_id=dHE4NmNnUXIxa0xycUNaMmxJS1ZLY2Rtdm9TQzFhQ3k4Yzd0bDlaVg==
 
+#EXTINF:-1 group-title="World TV" tvg-ID="Channel1" tvg-name="" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s32281_h15_ad.png",Channel 1
+https://raw.githubusercontent.com/atone77721/WEBCAST/refs/heads/main/SportsWebcast.m3u8
+
 **********FM Radio**********
 
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/FMRadio_Philippines.png"
