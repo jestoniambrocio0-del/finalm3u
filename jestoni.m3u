@@ -571,7 +571,7 @@ http://vod.nathcreqtives.com/stream/convergenceinc/heartofasia/master.m3u8?u=phc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fDhBrB4.png" group-title="Converge-TV", iHeart Movies
 http://vod.nathcreqtives.com/stream/convergenceinc/ihm/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
-#EXTINF:-1 tvg-logo="https://htthttps://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="Converge-TV", SMNI
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/SMNI39.jpg" group-title="Converge-TV", SMNI
 https://vod.nathcreqtives.com/stream/convergenceinc/smni/master.m3u8?u=phc&p=fd65e8f78f430cd1a48bf2c07b9c0ace241775f6b2c9698a9ea01988d871da6e
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/dazn_ringside_black.png" group-title="Converge-TV", DAZN RINGSIDE
