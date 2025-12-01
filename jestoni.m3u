@@ -559,7 +559,7 @@ https://68fd966a.wurl.com/TEctZ2JfUEZMTU1BX0hMUw/playlist.m3u8
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDTZXTtozcxJmpR7clnHYf9iegeWBOWKLytA&s"
 
-#EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/dazn_ringside_black.png" group-title="Converge-TV", DAZN RINGSIDE
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/DAZN-Logo.jpg" group-title="Converge-TV", DAZN RINGSIDE
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
 #EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="Converge-TV",PTV
@@ -1625,9 +1625,6 @@ http://supersonictv.live:8080/611366/682256/22124
 
 #EXTINF:-1 group-title="World TV" tvg-id="" tvg-logo="https://i.imgur.com/9gq2SE9.png",National Geographic Wild
 http://supersonictv.live:8080/611366/682256/22125
-
-#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2024/12/DAZN-Logo.jpg" group-title="World TV", DAZN RINGSIDE
-https://raw.githubusercontent.com/jestoniambrocio0-del/dazn.m3u8/4387e9f127244b52e20ad9c03293da3da2906d40/.m3u8
 
 **********FM Radio**********
 
